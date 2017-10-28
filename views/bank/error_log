@@ -1,0 +1,20 @@
+[01-Aug-2017 03:48:14 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 34
+[01-Aug-2017 03:48:14 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 03:48:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 03:48:14 UTC] PHP Notice:  Undefined variable: permit in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 63
+[01-Aug-2017 03:59:49 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 34
+[01-Aug-2017 03:59:49 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 03:59:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 03:59:49 UTC] PHP Notice:  Undefined variable: permit in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 63
+[01-Aug-2017 04:01:59 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 34
+[01-Aug-2017 04:01:59 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 04:01:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 04:01:59 UTC] PHP Notice:  Undefined variable: permit in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 63
+[01-Aug-2017 04:02:13 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 34
+[01-Aug-2017 04:02:13 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 04:02:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 04:02:13 UTC] PHP Notice:  Undefined variable: permit in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 63
+[01-Aug-2017 04:02:15 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 34
+[01-Aug-2017 04:02:15 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 04:02:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 48
+[01-Aug-2017 04:02:15 UTC] PHP Notice:  Undefined variable: permit in /home/jasaprog/public_html/pos_bu_diana/views/bank/bank_list.php on line 63

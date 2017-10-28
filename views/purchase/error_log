@@ -1,0 +1,23 @@
+[01-Aug-2017 05:01:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 3
+[01-Aug-2017 05:01:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'jasaprog'@'localhost' (using password: NO) in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 8
+[01-Aug-2017 05:01:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 8
+[01-Aug-2017 05:01:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 9
+[01-Aug-2017 05:01:39 UTC] PHP Notice:  Undefined variable: action1 in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 79
+[01-Aug-2017 05:01:39 UTC] PHP Notice:  Undefined variable: purchase_id in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 80
+[01-Aug-2017 05:01:39 UTC] PHP Notice:  Undefined variable: i_supplier in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 109
+[01-Aug-2017 05:01:39 UTC] PHP Notice:  Undefined variable: q_bank in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 131
+[01-Aug-2017 05:01:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 131
+[01-Aug-2017 05:01:39 UTC] PHP Notice:  Undefined variable: q_bank_to in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 149
+[01-Aug-2017 05:01:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 149
+[01-Aug-2017 05:01:39 UTC] PHP Fatal error:  Call to undefined function format_rupiah() in /home/jasaprog/public_html/pos_bu_diana/views/purchase/pp_list.php on line 170
+[01-Aug-2017 05:01:47 UTC] PHP Notice:  Undefined variable: action in /home/jasaprog/public_html/pos_bu_diana/views/purchase/form.php on line 27
+[01-Aug-2017 05:01:47 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/purchase/form.php on line 35
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: item_name in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 19
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: action in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 21
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: tanggal in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 27
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: item_id in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 42
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: purchase_id in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 43
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: supplier_id in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 44
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: branch_id in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 45
+[01-Aug-2017 05:01:55 UTC] PHP Notice:  Undefined variable: q_unit_item in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 54
+[01-Aug-2017 05:01:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/purchase/popmodal.php on line 54

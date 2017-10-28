@@ -1,0 +1,16 @@
+[01-Aug-2017 05:58:53 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 50
+[01-Aug-2017 05:58:53 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[01-Aug-2017 05:58:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[01-Aug-2017 05:58:53 UTC] PHP Notice:  Undefined variable: add_button in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 96
+[01-Aug-2017 05:58:56 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 50
+[01-Aug-2017 05:58:56 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[01-Aug-2017 05:58:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[01-Aug-2017 05:58:56 UTC] PHP Notice:  Undefined variable: add_button in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 96
+[01-Aug-2017 05:59:00 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 50
+[01-Aug-2017 05:59:00 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[01-Aug-2017 05:59:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[01-Aug-2017 05:59:00 UTC] PHP Notice:  Undefined variable: add_button in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 96
+[09-Aug-2017 09:17:35 UTC] PHP Notice:  Undefined variable: title in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 50
+[09-Aug-2017 09:17:35 UTC] PHP Notice:  Undefined variable: query in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[09-Aug-2017 09:17:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 71
+[09-Aug-2017 09:17:35 UTC] PHP Notice:  Undefined variable: add_button in /home/jasaprog/public_html/pos_bu_diana/views/voucher/list.php on line 96

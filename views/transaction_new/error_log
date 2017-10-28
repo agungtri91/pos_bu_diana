@@ -1,0 +1,7 @@
+[01-Aug-2017 06:15:29 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 83
+[01-Aug-2017 06:15:31 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 83
+[01-Aug-2017 06:15:40 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 83
+[01-Aug-2017 06:16:41 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 83
+[09-Aug-2017 00:15:41 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 83
+[09-Aug-2017 11:11:00 UTC] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 2
+[09-Aug-2017 11:11:00 UTC] PHP Fatal error:  Call to undefined function get_last_id() in /home/jasaprog/public_html/pos_bu_diana/views/transaction_new/list.php on line 84

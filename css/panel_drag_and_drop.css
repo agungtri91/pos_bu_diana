@@ -1,0 +1,17 @@
+
+.box-container {
+  min-height: 200px;
+  height: 100%;
+  position: relative;
+  }
+
+  .box-item {
+    width: 100%;
+    height: 50px;
+    z-index: 1000;
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  .panel{
+    margin: 20px;
+  }
